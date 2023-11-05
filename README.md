@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Williamsc286
+- 👋 Hi, I’m @William
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Fundamentals for ML&DS
 - 💞️ I’m looking to collaborate on coding and making progress on the study of ML
